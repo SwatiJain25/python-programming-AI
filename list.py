@@ -1,0 +1,15 @@
+list=[10, 20, 30, 40, 50, 60, 70, 80]
+print("i) ")
+list.append(100)
+list.append(200)
+print(list)
+print("ii) ")
+list.remove(10)
+list.remove(30)
+print(list)
+print("iii) ")
+list.sort
+print(list)
+print("iv. ")
+list.sort(reverse=True)
+print(list)
